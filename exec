@@ -5,7 +5,7 @@ echo "123";
 ?>
 end -->
 start
-<!-- <?php
+<?php
 echo "123";
-?> -->
+?>
 end
